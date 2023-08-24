@@ -23,10 +23,10 @@
         ]
       },
       {
-        "id": 3,
+        "id": 4,
         "name": "Parlor Palm",
         "type": "pet-friendly",
-        "description": "A species of small palm tree native to the rainforests in Southern Mexico and Guatemala.",
+        "description": "A species of small palm tree native to the rainforests in Southern Mexico and Guatemala. The parlor palm is one of the most extensively sold houseplant palms in the world.",
         "size": "medium",
         "images": [
           "https://houseplantshop.com/cdn/shop/products/4_PALM_PARLOR_1_1800x1800.jpg?v=1655239416",
@@ -34,10 +34,10 @@
         ]
       },
       {
-        "id": 4,
+        "id": 5,
         "name": "Bird's Nest Nidus Fern",
         "type": "pet-friendly",
-        "description": "Native to tropical regions such as southeast Asia, Australia, east Africa and Hawaii to name a few, Bird’s Nest Ferns (Asplenium Nidus) are typically found in palm trees.",
+        "description": "Native to tropical regions such as southeast Asia, Australia, east Africa and Hawaii to name a few, Bird’s Nest Ferns (Asplenium Nidus) are typically found in palm trees. Given the right indoor environment, they will thrive and make for a wonderfully unique houseplant.",
         "size": "medium",
         "images": [
           "https://houseplantshop.com/cdn/shop/products/1-Fern-Nidus-4MAIN_1800x1800.jpg?v=1622834707",
@@ -45,15 +45,136 @@
         ]
       },
         {
-        "id": 5,
+        "id": 7,
         "name": "Palm Ponytail",
         "type": "pet-friendly",
-        "description": "Beaucarnea recurvata, the elephant's foot or ponytail palm, is a species of plant in the family Asparagaceae. The species was native to numerous states of eastern Mexico but is now confined to the state of Veracruz.",
+        "description": "Beaucarnea recurvata, the elephant's foot or ponytail palm, is a species of plant in the family Asparagaceae. The species was native to numerous states of eastern Mexico but is now confined to the state of Veracruz. Despite its common name, it is not closely related to the true palms.",
         "size": "large",
         "images": [
           "https://houseplantwest.com/cdn/shop/products/10_PALM_PONYTAIL_1_1800x1800.jpg?v=1638394330",
           "https://houseplantshop.com/cdn/shop/products/1-Palm-Ponytail-10-DETAIL_1800x1800.jpg?v=1622839087"        
         ]
-      }
-      ]
-    }
+      },
+         {
+        "id": 10,
+        "name": "Zamioculcas Zamiifolia-ZZ",
+        "type": "tropical indoor",
+        "description": "ZZ plant is an erect, semi-evergreen perennial in the Araceae (ariod) family and native to Africa. The species name means with leaves like Zamia, which is an unrelated genus. This plant has a slow growth rate, reaching 2 to 4 feet in height and width.",
+        "size": "small",
+        "images": [
+          "https://houseplantshop.com/cdn/shop/products/4_ZAMIOCULCAS_ZAMIIFOLIA_1_1800x1800.jpg?v=1655239308",
+          "https://houseplantshop.com/cdn/shop/products/1-Zamioculcas-Zamiifolia-4DETAIL_1800x1800.jpg?v=1622836236"        
+        ]
+      },
+      {
+          "id": 11,
+          "name": "Lemon Button Fern",
+          "type": "tropical indoor",
+          "description": "The lemon button fern is a dwarf variety of the common Boston fern and goes by many names including button sword fern, erect sword fern, little-leaved sword fern, and fishbone fern. The leaves give off a lemony scent when crushed.",
+          "size": "small",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_1_1800x1800.jpg?v=1655238026",
+            "https://houseplantshop.com/cdn/shop/products/4_FERN_LEMON.BUTTON_2_1800x1800.jpg?v=1655238028"        
+          ]
+        },
+             {
+          "id": 13,
+          "name": "English Ivy-Green California",
+          "type": "tropical indoor",
+          "description": "a woody, evergreen, perennial vining plant. It features attractive, deep green colored foliage with no variegation. One of the best choices for a fast-growing arrangement or ground cover.",
+          "size": "medium",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4_IVY_GREEN_1_1800x1800.jpg?v=1630959922",
+            "https://houseplantshop.com/cdn/shop/products/1-Ivy-GreenCalifornia-4DETAIL_1800x1800.jpg?v=1630959922"        
+          ]
+        },
+        {
+          "id": 14,
+          "name": "Chinese Evergreen-Lady Valentine",
+          "type": "tropical indoor",
+          "description": "A species of genus aglaonema categorized under araceae plants family, native to tropical and subtropical regions of asia.",
+          "size": "medium",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_1_1800x1800.jpg?v=1627690984",
+            "https://houseplantshop.com/cdn/shop/products/4_CH.EVERGREEN_LADY.VALENTINE_2_1800x1800.jpg?v=1655237106"        
+          ]
+        },
+        {
+          "id": 15,
+          "name": "Monstera Adansonii-Swiss Cheese",
+          "type": "tropical indoor",
+          "description": "Swiss Cheese Plant' is named so because of its huge leaves with holes in them that resembles Swiss cheese. Leaf shape changes as the leaves mature from entire to having holes to eventually having perforations often extending to and breaking through the outer edges of the leaves and result in a pinnatifid leaf shape.",
+          "size": "large",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-6_1800x1800.jpg?v=1623090125",
+            "https://houseplantshop.com/cdn/shop/products/1-Monstera-SwissCheese-DETAIL-6_1800x1800.jpg?v=1623090125"        
+          ]
+        },
+        {
+          "id": 17,
+          "name": "Snake Plant-Zeylanica",
+          "type": "tropical indoor",
+          "description": "Sansevieria zeylanica is a tough, hardy snake plant. The long sword-like leaves are dark green with wavy lighter green bands. They have rather a rugged, shabby-chic appearance often with rough, brown edges. Some minor leaf cracking is also common.",
+          "size": "large",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6_1800x1800.jpg?v=1627696235",
+            "https://houseplantshop.com/cdn/shop/products/1-Snake-Zeylanica-6-DETAIL_ab967883-8d45-419d-aa85-fdd701b1d378_1800x1800.jpg?v=1627696235"        
+          ]
+        },
+            {
+          "id": 19,
+          "name": "Begonia-Frosty",
+          "type": "flowering",
+          "description": "Frosty is a bushy begonia that is erect with succulent stems. The many everblooming flowers are single and white in color. The bronze leaves are shiny, smooth and ovate. This plant can tolerate full sun.",
+          "size": "small",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_1800x1800.jpg?v=1680760771",
+            "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_FROSTY_2.1_1800x1800.jpg?v=1680760771"        
+          ]
+        },
+        {
+          "id": 20,
+          "name": "Orchid-Yellow Phalaenopsis",
+          "type": "flowering",
+          "description": "One of the easiest varieties of orchids to grow as a houseplant, and is often called the beginner orchid due to its easy going nature, or the moth orchid due to the shape of its blooms. Water: Phalaenopsis is a 'monopodial' orchid, which means that it grows from a single stem.",
+          "size": "small",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_1_1800x1800.jpg?v=1681784425",
+            "https://houseplantshop.com/cdn/shop/products/4_ORCHID_PHALAENOPSIS_YELLOW_2_1800x1800.jpg?v=1681784425"        
+          ]
+        },
+       {
+          "id": 23,
+          "name": "Begonia Mocca Deep Orange",
+          "type": "flowering",
+          "description": "Mocca Deep Orange Begonia is an herbaceous annual with a mounded form. Its medium texture blends into the garden, but can always be balanced by a couple of finer or coarser plants for an effective composition.",
+          "size": "medium",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/7178a5dc-127e-40c2-be70-d9b3cb2ab3a5_1800x1800.png?v=1664476397",
+            "https://houseplantshop.com/cdn/shop/products/4_BEGONIA_MOCCA.DEEP.ORANGE_2_1800x1800.jpg?v=1661883113"        
+          ]
+        },
+        {
+          "id": 24,
+          "name": "Calla Lily Pink",
+          "type": "flowering",
+          "description": "A very proliferous bloomer, Zantedeschia rehmannii (Pink Calla Lily) is absolutely irresistible with its abundant and magnificent, creamy pink blushed trumpet-shaped flowers (spathes), 3 in. across (7 cm)",
+          "size": "large",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/6-CALLALILY-PINK-1_1800x1800.jpg?v=1675130495",
+            "https://houseplantshop.com/cdn/shop/products/59603bb8-4975-4964-81a0-bf0d09f66eef_1800x1800.png?v=1677688324"        
+          ]
+        },
+        {
+          "id": 25,
+          "name": "Red Kalanchoe-Blossfeldiana",
+          "type": "flowering",
+          "description": "Kalanchoe blossfeldiana is a long-flowering perennial succulent that happily will grow indoors and out. For plant lovers who lack a green thumb, growing Kalanchoe can be a good way to boost self-confidence. These plants make for wonderful windowsill color as well as desk plants.",
+          "size": "large",
+          "images": [
+            "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-1_1800x1800.jpg?v=1631568647",
+            "https://houseplantshop.com/cdn/shop/products/4-KALANCHOE-RED-2_1800x1800.jpg?v=1631568647"        
+          ]
+        }
+    ]
+  }
